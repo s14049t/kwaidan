@@ -1,0 +1,52 @@
+<html lang="ja">
+    <head>
+        <title>招待状</title>
+
+
+
+    </head>
+    <body bgcolor="black" text="red">
+        <script type="text/javascript" src="Tinkerbell.js"></script>   
+
+        <P>
+            <br>
+            <marquee>Sorry, this event is Japanese Only!</marquee>
+            <br>
+            <center><font size=10 face="ＭＳ ゴシック"><i><strong>招待状</strong></i></font></center><br>
+            <br>
+            <br>
+            <center><font face="ＭＳ ゴシック"><strong>――私は、退屈である――</strong></font></center><br>
+            <br>
+            <br>
+            <center><font face="ＭＳ ゴシック">ここは、繰り返される平穏なる日常に飽きた者たちの憩いの場。</font></center>
+            <br>
+            <center><font face="ＭＳ ゴシック">第一・第三月曜日に開かれる怪談会。</font></center>
+            <center><font face="ＭＳ ゴシック">どんな些細な怪異でも喜んで迎え入れる怪談オタク達の溜り場である。</font></center>
+            <center><font face="ＭＳ ゴシック">怪談に興味を持ってこのワールドを訪れたあたなは、是非に関わらずその門扉を叩くと良い。</font></center>
+            <center><font face="ＭＳ ゴシック">聞きたいのならば静寂をもって周囲の適当な場所へ。</font></center>
+            <center><font face="ＭＳ ゴシック">怪談をお持ちの『貴方』には語る為の椅子を中央に用意してある。</font></center>
+            <center><font face="ＭＳ ゴシック">心配はいらない。オチがあろうがなかろうが、怖かろうが怖くなかろうが。</font></center>
+            <center><font face="ＭＳ ゴシック">全ては歓迎を持って迎えられることだろう。</font></center>
+            <br>
+            <center><font face="ＭＳ ゴシック">ここに、我々はあらゆる怪異を行程することを記しておく。</font></center>
+            <center><font face="ＭＳ ゴシック">体験談　都市伝説　心霊写真　人コワ　創作　実話　朗読　妖怪　民話　落語　講談</font></center>
+            <center><font face="ＭＳ ゴシック">この世のありとあらゆる怪異を。</font></center>
+            <br>
+            <center><font face="ＭＳ ゴシック">聞くも良し。語るならなおのこと良し。</font></center>
+            <br>
+            <center><font face="ＭＳ ゴシック">さあ、心の準備が出来たらなら『赤い部屋』へとお進みいただこう。</font></center>
+            <br>
+            <p style="text-align:right"><font face="ＭＳ ゴシック">土方　幽　　　　　　　　　　　　　　　</font></p>
+            <br>
+            <br>
+            <br>
+            <br>
+            <center>Enter</center>
+            <br>
+            <br>
+            <br>
+            <br>
+        </P>
+
+    </body>
+</html>
